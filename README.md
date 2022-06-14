@@ -14,4 +14,5 @@ Unfortunately, neither Gradle or Maven require any explicit signal about the Jav
 | References to base docker images | e.g. openjdk:11-jdk-slim |
 | CircleCI Java version | See [openjdk](https://circleci.com/developer/images/image/cimg/openjdk). Also check docs for what implied default version is |
 | TravisCI Java version | See [Building a Java project](https://docs.travis-ci.com/user/languages/java/) |
+| GitHub actions Java version | See [GitHub actions docs](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-maven#using-the-maven-starter-workflow) |
 
