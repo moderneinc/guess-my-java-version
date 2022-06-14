@@ -10,3 +10,8 @@ Unfortunately, neither Gradle or Maven require any explicit signal about the Jav
 |--------------|-------------------|
 | Gradle `sourceCompatibility` | See [Java Plugin reference](https://docs.gradle.org/current/userguide/java_plugin.html#sec:java-extension) |
 | Maven `maven.compiler.source` | See [blog](https://www.baeldung.com/maven-java-version#compiler) |
+| Use of libraries requiring a minimum Java 11 version | Caffeine 3.+ |
+| References to base docker images | e.g. openjdk:11-jdk-slim |
+| CircleCI Java version | See [openjdk](https://circleci.com/developer/images/image/cimg/openjdk). Also check docs for what implied default version is |
+| TravisCI Java version | See [Building a Java project](https://docs.travis-ci.com/user/languages/java/) |
+
