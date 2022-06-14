@@ -16,3 +16,4 @@ Unfortunately, neither Gradle or Maven require any explicit signal about the Jav
 | TravisCI Java version | See [Building a Java project](https://docs.travis-ci.com/user/languages/java/) |
 | GitHub actions Java version | See [GitHub actions docs](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-maven#using-the-maven-starter-workflow) |
 | Any reference to Jigsaw | The presence of a `module-info.java` or a declared dependency on a module |
+| References to JakartaEE | ?? |
